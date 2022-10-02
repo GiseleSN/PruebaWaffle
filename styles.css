@@ -1,0 +1,21 @@
+.h1 {
+    font-family: 'Garamond';
+    font-size: 35px;
+
+}
+
+.p{ 
+    font-family: 'Garamond';
+    font-size: 15px;
+}
+
+.shows{
+    font-family: Verdana;
+    font-weight: bolder;
+
+}
+
+body {
+    background-color: orange;
+    opacity: 1;
+  }
